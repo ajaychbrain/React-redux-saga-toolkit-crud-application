@@ -1,0 +1,5 @@
+export const GET_USERS = 'GET_USERS'
+export const GET_USERS_BY_ID = 'GET_USERS_BY_ID'
+export const CREATE_USERS = 'CREATE_USERS'
+export const UPDATE_USERS_BY_ID = 'UPDATE_USERS_BY_ID'
+export const DELETE_USERS_BY_ID = 'DELETE_USERS_BY_ID'
